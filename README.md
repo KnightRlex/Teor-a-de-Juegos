@@ -2,6 +2,8 @@
 
 Una aplicación web interactiva impulsada por Inteligencia Artificial (Gemini 2.5 Flash) que actúa como un Analista Estratégico Experto. La aplicación modela situaciones de la vida real (negocios, relaciones, conflictos laborales) utilizando matemáticas aplicadas para calcular la exposición al riesgo y predecir el comportamiento óptimo mediante la Teoría de Juegos.
 
+Prueba: https://sites.google.com/view/teoriajuegos/p%C3%A1gina-principal
+
 ✨ Características Principales
 
 🤖 Agente de IA Coercitivo: Un chat inteligente con un "System Prompt" estricto que entrevista al usuario para descubrir asimetrías de información, riesgos ocultos (legales, financieros, emocionales) y utilidades reales.
@@ -32,9 +34,7 @@ Sigue estos pasos para correr el proyecto en tu máquina local:
 
 1. Clonar el repositorio
 
-git clone [https://github.com/TU_USUARIO/motor-estrategico.git](https://github.com/TU_USUARIO/motor-estrategico.git)
-cd motor-estrategico
-
+git clone 
 
 2. Instalar dependencias
 
